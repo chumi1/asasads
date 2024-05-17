@@ -1,0 +1,13 @@
+(corrección 3)
+
+definir num como entero
+
+definir i, como entero;
+
+para i=0 hasta 10 con paso 1 hacer
+
+    Si i mod 2 = = 0 entonces 
+
+     Escribir i;
+
+    Sino
