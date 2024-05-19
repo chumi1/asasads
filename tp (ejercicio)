@@ -7,4 +7,9 @@ escribir "ingrese letra que desea quitar"
 leer letra
 f = subcadena (frase, i ,i)
 para i= 1 hasta 10 hacer 
+
+
+
+
+
 Finpara 
