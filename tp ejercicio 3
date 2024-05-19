@@ -1,0 +1,8 @@
+definir i, num como entero 
+escribir "ingrese número"
+leer num
+para i = 0 hasta 10 con paso uno hacer 
+si i mod == 0 entonces
+escribir i;
+sino 
+finsi
