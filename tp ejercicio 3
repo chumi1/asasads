@@ -1,8 +1,6 @@
-definir i, num como entero 
-escribir "ingrese número"
+definir num como entero
+Escribir "ingrese un numero"
 leer num
-para i = 0 hasta 10 con paso uno hacer 
-si i mod == 0 entonces
-escribir i;
-sino 
-finsi
+mientras num mod 2 = 0 hacer 
+Escribir "ingrese otro numero"
+leer num
